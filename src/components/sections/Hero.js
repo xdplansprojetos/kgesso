@@ -64,19 +64,19 @@ const Hero = ({
           <div className="hero-content">
           
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              XD Plans <span className="text-color-primary">Developers</span>
+              KGesso <span className="text-color-secudary">Obras & Elétrica</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              A DX Designer começou em 2012 com foco em criação de páginas HTML/CSS, mas se especializou na area de Marketing Digital, desde então estamos desenvolvendo novos sites a cada dia com a Plataforma WordPress, Magento e outros, hoje somos a XD Plans especizada em JavaScript e Novas Tecnologias do Mercado como React JS e React Native.
+              A KGesso é uma empresa especializada em soluções para construção civil e oferece serviços de qualidade em elétrica em geral, divisórias, gessos, forro e drywall em geral. Com uma equipe de profissionais experientes e comprometidos em entregar um serviço de qualidade, sem imperfeições, a KGesso é uma ótima opção para quem busca soluções práticas e eficientes para a construção civil. Se você precisa de serviços de elétrica em geral, divisórias, gessos, forro e drywall em geral, não deixe de conhecer a KGesso! 😊
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="tel:+5511961477718">
-                    Ligue Agora
+                  <Button tag="a" color="primary" wideMobile href="#">
+                    WhatsApp
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/xdplansprojetos">
-                    Veja no Github
+                  <Button tag="a" color="dark" wideMobile href="tel:+5511981422274">
+                    Ligue Agora
                     </Button>
                 </ButtonGroup>
               </div>
