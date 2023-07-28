@@ -106,21 +106,13 @@ const Header = ({
                     isActive && 'is-active'
                   )}>
                 <div className="header-nav-inner">
-                  <ul className={
-                    classNames(
-                      'list-reset text-xs',
-                      navPosition && `header-nav-${navPosition}`
-                    )}>
-                    <li>
-                      <Link to="/contato" onClick={closeMenu}>FALE CONOSCO</Link>
-                    </li>
-                  </ul>
+                 
                   {!hideSignin &&
                     <ul
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="https://api.whatsapp.com/send?phone=5511961477718&text=Quero%20saber%20mais!" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>WhatsApp</Link>
+                        <Link to="https://api.whatsapp.com/send?phone=5511981422274&text=Quero%20saber%20mais!" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>WhatsApp</Link>
                       </li>
                     </ul>}
                 </div>
