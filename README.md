@@ -1,1 +1,1 @@
-# XDSiteNovo
+# KGesso - Site React
