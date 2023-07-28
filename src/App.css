@@ -1,3 +1,7 @@
 .button-primary {
     background-color: #00b80e !important;
 }
+
+.logo-home img {
+    width: 300px !important;
+}
