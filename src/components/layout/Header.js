@@ -112,7 +112,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="https://api.whatsapp.com/send?phone=5511981422274&text=Quero%20saber%20mais!" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>WhatsApp</Link>
+                        <a className="button button-primary button-wide-mobile button-sm" href="https://api.whatsapp.com/send?phone=5511981422274&text=Quero%20saber%20mais!">WhatsApp</a>
                       </li>
                     </ul>}
                 </div>

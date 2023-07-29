@@ -2,6 +2,20 @@
     background-color: #00b80e !important;
 }
 
-.logo-home img {
-    width: 300px !important;
+.logo-home {
+    width: 200px !important;
+    margin-top: 100px;
+}
+
+body {
+    background-color: #FFF !important;
+    color: #000 !important;
+}
+
+h1 {
+    color: #e3a72f !important;
+}
+
+.site-footer  {
+    display: none;
 }

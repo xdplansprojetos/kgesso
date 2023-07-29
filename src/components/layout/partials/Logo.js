@@ -24,7 +24,6 @@ const Logo = ({
             src={require('./../../../assets/images/logo.png')}
             alt="XD"
             className="logo-home"
-            width="300px"
             />
         </Link>
       </h1>
